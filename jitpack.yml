@@ -1,3 +1,0 @@
-install:
-  - FILE="-Dfile=sdk-2.8.1.aar"
-  - mvn install:install-file $FILE -DgroupId=com.useriq.androidsdk -DartifactId=test -Dversion=1.2 -Dpackaging=aar -DgeneratePom=true
