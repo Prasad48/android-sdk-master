@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75a42ef5-018e-450f-bfc1-0700d7a9cbbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/android-sdk-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDK/jitpack.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDK/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDK/sdk-2.8.1.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/androidTest/java/com/useriq/android_sample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/java/com/useriq/android_sample/ActivityOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/java/com/useriq/android_sample/ActivityThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/java/com/useriq/android_sample/ActivityTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/java/com/useriq/android_sample/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/java/com/useriq/android_sample/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/java/com/useriq/android_sample/SubActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/layout/activity_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/layout/activity_sub.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/layout/activity_three.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/layout/activity_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/app/src/test/java/com/useriq/android_sample/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample app/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ctxHelp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/helpcenter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/inapp-default.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/inapp-header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/layout_editor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/libs_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nps.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tagging_programmatically.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xml_tagging.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rEsCbWEvgVivFVQje9UrYBiwZv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75a42ef5-018e-450f-bfc1-0700d7a9cbbc" name="Default Changelist" comment="" />
+      <created>1618552456274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618552456274</updated>
+    </task>
+    <servers />
+  </component>
+</project>
